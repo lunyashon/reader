@@ -6,9 +6,9 @@ import (
 	"os"
 	"testing"
 
-	"cmd/app/internal/lib/config"
-	"cmd/app/internal/lib/rabbit"
-	"cmd/app/internal/service/email"
+	"github.com/lunyashon/reader/internal/lib/config"
+	"github.com/lunyashon/reader/internal/lib/rabbit"
+	"github.com/lunyashon/reader/internal/service/email"
 
 	"github.com/stretchr/testify/assert"
 )
