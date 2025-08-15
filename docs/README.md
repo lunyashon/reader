@@ -1,5 +1,7 @@
 # reader — RabbitMQ consumer and SMTP email sender
 
+## THIS PROJECT IS IN DEVELOPMENT
+
 Reader consumes messages from RabbitMQ queues and sends transactional emails (confirm email, reset password) via SMTP. Designed to work alongside an auth service.
 
 ## Features
